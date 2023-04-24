@@ -1,0 +1,1 @@
+create table RecipeBook(RecipeId int primary key identity, RecipeName varchar(100), RecipeIngredients varchar(max),RecipeDescription varchar(max));
